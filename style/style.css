@@ -8,7 +8,7 @@ body{
     display: grid;
     place-items: center;
     min-height: 100vh;
-    background:url(/coins-gold-bars-scattered-table.jpg) no-repeat;
+    background:url(coins-gold-bars-scattered-table.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 } 
